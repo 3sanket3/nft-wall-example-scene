@@ -4,4 +4,8 @@ bin
 *.swp
 *.*~
 export
+npm-debug.log
+.DS_Store
+/*.env
+
 
